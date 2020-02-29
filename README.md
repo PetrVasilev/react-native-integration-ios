@@ -4,12 +4,15 @@ Integration of React Native app to existing iOS app.
 2. Run
 `
     yarn install
+`
+3. Run
+`
     yarn start
 `
-3. Go to IosApp/
-4. Run
+4. Go to IosApp/
+5. Run
 `
     pod install
 `
-5. Open Xcode project - IosApp.xcworkspace
-6. Run application
+6. Open Xcode project - IosApp.xcworkspace
+7. Run application
